@@ -15,4 +15,4 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with:
                   max_post_count: "5"
-                  feed_list: "https://hackmd.io/@yantong0116?tags=%5B%22Paper_with_code%22%5D"
+                  feed_list: "https://hackmd.io/@yantong0116?tags=Paper_with_code"
