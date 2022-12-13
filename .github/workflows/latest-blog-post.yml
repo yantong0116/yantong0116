@@ -1,7 +1,7 @@
 name: Latest blog post
 on:
     push:
-        branches: [ "main" ]
+        branches: [ "main" ] 
     #schedule:
         # Runs at 9pm UTC
         #- cron: "20 05 * * *"
