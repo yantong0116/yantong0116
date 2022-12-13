@@ -19,7 +19,8 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yantong0116&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Snake Light]](github-snake.svg)
+![GitHub Snake Light](https://raw.githubusercontent.com/yantong0116/yantong0116/output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://raw.githubusercontent.com/yantong0116/yantong0116/output/github-snake-dark.svg#gh-dark-mode-only)
 
 📝 **Latest Medium Posts**
 
