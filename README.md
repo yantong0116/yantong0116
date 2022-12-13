@@ -9,4 +9,5 @@ yantong0116/yantong0116 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 <!-- BLOG-POST-LIST:START -->
+- [Introduction](https://medium.com/@yantong0116/introduction-b6f7ab2c38da?source=rss-49cb9750acef------2)
 <!-- BLOG-POST-LIST:END -->
