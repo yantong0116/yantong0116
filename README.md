@@ -35,6 +35,9 @@ You can click the Preview link to take a look at your changes.
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 
+<!--START_SECTION:readme-info-->
+
+<!--END_SECTION:readme-info-->
 
 
 📝 **Latest Medium Posts**
