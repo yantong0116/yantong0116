@@ -1,7 +1,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Yantong</h1>
-<h3 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+Software+developer+from+Taiwan.)](https://git.io/typing-svg)</h3>
+<h3 align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+Software+developer+from+Taiwan.)](https://git.io/typing-svg)
+</h3>
 
 
 
