@@ -36,7 +36,6 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--START_SECTION:readme-info-->
-
 <!--END_SECTION:readme-info-->
 
 
