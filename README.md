@@ -30,7 +30,7 @@ yantong0116/yantong0116 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-![svg](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-south-season-animate.svg)
+![svg](https://raw.githubusercontent.com/yantong0116/github-profile-3d-contrib/main/docs/demo/profile-south-season-animate.svg)
 
 
 <!---
