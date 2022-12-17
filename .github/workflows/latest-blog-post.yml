@@ -16,7 +16,7 @@ jobs:
                   feed_list: "https://medium.com/feed/@yantong0116"
             - uses: yoshi389111/github-profile-3d-contrib@0.7.0
               env:
-                  GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+                  GH_TOKEN: ${{ secrets.GH_TOKEN }}
                   USERNAME: ${{ github.repository_owner }}
                   
             - name: generate github-contribution-grid-snake.svg
