@@ -30,18 +30,8 @@ yantong0116/yantong0116 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-
-
-![](./profile-3d-contrib/profile-green-animate.svg)
-
-profile-3d-contrib/profile-season-animate.svg
-
 ![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
-
-<!--START_SECTION:readme-info-->
-
-<!--END_SECTION:readme-info-->
 
 
 📝 **Latest Medium Posts**
