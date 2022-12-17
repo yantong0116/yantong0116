@@ -1,6 +1,15 @@
 
+<span align="center">
+ <h1>Hi 👋, I am Yantong 👨‍💻 </h1>
 
-<h1 align="center">Hi 👋, I'm Yantong</h1>
+[![](https://img.icons8.com/material-two-tone/32/000000/instagram-new.png)](https://www.instagram.com/jainam_here_/)
+[![](https://img.icons8.com/material-two-tone/32/000000/linkedin.png)](https://linkedin.com/in/jainam-desai)
+[![](https://img.icons8.com/windows/32/000000/hackerrank.png)](https://www.hackerrank.com/jainamd)
+[![](https://img.icons8.com/ios/32/000000/resume-website.png)](https://th3c0d3br34ker.github.io)
+
+</span>
+
+<img src="./code.gif" align="right" alt="Coder GIF" width="480" height="300">
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=435&pause=1000&color=6C9FD9&center=true&vCenter=true&width=435&lines=A+Software+developer+from+Taiwan.)](https://git.io/typing-svg)
