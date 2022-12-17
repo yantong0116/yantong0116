@@ -27,13 +27,14 @@
 ![Django](https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=django)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-black?style=for-the-badge&logo=pytorch)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=postman)
-![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5)
+![SQL](https://img.shields.io/badge/-SQLite-black?style=for-the-badge&logo=SQLite)
 
 **Languages**
 
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
 ![Java](https://img.shields.io/badge/-java-black?style=for-the-badge&logo=java)
 ![C++](https://img.shields.io/badge/-Cpp-black?style=for-the-badge&logo=c)
+![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5)
 ![Matlab](https://img.shields.io/badge/-Matlab-black?style=for-the-badge&logo=matlab)
 
 
