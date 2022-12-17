@@ -30,8 +30,8 @@ yantong0116/yantong0116 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](dist/github-contribution-grid-snake.svg)
+![GitHub Snake dark](dist/github-contribution-grid-snake-dark.svg)
 
 
 📝 **Latest Medium Posts**
