@@ -4,8 +4,9 @@
 
 [![](https://img.icons8.com/material-two-tone/32/000000/instagram-new.png)](https://instagram.com/yan._.tong_)
 [![](https://img.icons8.com/material-two-tone/32/000000/linkedin.png)](https://linkedin.com/in/yantong0116)
-[![](https://img.icons8.com/windows/32/000000/hackerrank.png)](https://www.hackerrank.com/jainamd)
+[![](https://img.icons8.com/medium.png)](https://www.hackerrank.com/jainamd)
 [![](https://img.icons8.com/ios/32/000000/resume-website.png)](https://yantong0116.github.io)
+![image](https://user-images.githubusercontent.com/51469882/208257047-f5da6460-e076-4f71-a001-304976cd2078.png)
 
 </span>
 
