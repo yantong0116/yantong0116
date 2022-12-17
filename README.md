@@ -27,7 +27,7 @@
 ![Django](https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=django)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-black?style=for-the-badge&logo=pytorch)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=postman)
-
+![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5)
 
 **Languages**
 
