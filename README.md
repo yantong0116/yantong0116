@@ -22,6 +22,22 @@
 </div>
 
 
+**Frameworks and Stack**
+
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+
+**Languages**
+
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c)
+![Java](https://img.shields.io/badge/-java-black?style=for-the-badge&logo=java)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c)
+
+<br />
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=435&pause=1000&color=6C9FD9&center=true&vCenter=true&width=435&lines=A+Software+developer+from+Taiwan.)](https://git.io/typing-svg)
 
 
