@@ -22,19 +22,20 @@
 </div>
 
 
-**Frameworks and Stack**
+**Frameworks and Tool**
 
 ![Django](https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=django)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-black?style=for-the-badge&logo=pytorch)
+![Postman](https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=postman)
 
 
 **Languages**
 
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c)
 ![Java](https://img.shields.io/badge/-java-black?style=for-the-badge&logo=java)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/-Cpp-black?style=for-the-badge&logo=c)
+![Matlab](https://img.shields.io/badge/-Matlab-black?style=for-the-badge&logo=matlab)
+
 
 <br />
 
