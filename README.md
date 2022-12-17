@@ -25,6 +25,7 @@
 **Frameworks and Stack**
 
 ![Django](https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=django)
+![Pytorch](https://img.shields.io/badge/-Pytorch-black?style=for-the-badge&logo=pytorch)
 
 
 **Languages**
