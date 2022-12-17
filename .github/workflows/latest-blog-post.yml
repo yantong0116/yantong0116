@@ -51,3 +51,14 @@ jobs:
                           "wait": 4,
                           "hide": ".github-corner, .footer-link, .buttons-options, .mobile-rotate, .display-info span:first-child"
                         }
+
+
+            - name: GitHub Skyline
+              with:
+                  filename: metrics.plugin.skyline.svg
+                  token: NOT_NEEDED
+                  base: ""
+                  plugin_skyline: yes
+                  plugin_skyline_year: 2022
+                  plugin_skyline_frames: 6
+                  plugin_skyline_quality: 1
