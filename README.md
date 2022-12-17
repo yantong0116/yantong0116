@@ -24,8 +24,8 @@
 
 **Frameworks and Stack**
 
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
-![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+![Django](https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=django)
+
 
 **Languages**
 
