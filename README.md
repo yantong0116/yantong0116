@@ -11,6 +11,16 @@
 
 <img src="./code.gif" align="right" alt="Coder GIF" width="480" height="300">
 
+<div>
+
+- 🔭 I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
+- 🌱 I’m currently learning C++, Machine Learning.
+- 💬 Ask me about anything, anytime 😄
+- 😄 Pronouns: She/Her 😌.
+- ⚡ Fun fact: Pilot dream
+
+</div>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=435&pause=1000&color=6C9FD9&center=true&vCenter=true&width=435&lines=A+Software+developer+from+Taiwan.)](https://git.io/typing-svg)
 
