@@ -61,8 +61,10 @@
 </div-->
 
 <img src="https://github.com/yantong0116/yantong0116/blob/main/metrics.plugin.skyline.svg" alt=""></img>
-<img src="https://github.com/yantong0116/yantong0116/blob/main/metrics.plugin.skyline.city.svg" alt=""></img>
 
+<!--
+<img src="https://github.com/yantong0116/yantong0116/blob/main/metrics.plugin.skyline.city.svg" alt=""></img>
+!-->
 
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/yantong0116/yantong0116/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/yantong0116/yantong0116/output/github-contribution-grid-snake.svg#gh-light-mode-only)
