@@ -1,9 +1,9 @@
 name: Latest blog post
 on:
-    push:
-        branches: [ "main" ] 
-#     schedule:
-#         - cron: '30 1,13 * * *'
+#     push:
+#         branches: [ "main" ] 
+    schedule:
+        - cron: '30 1,13 * * *'
 jobs:
     update-readme-with-blog:
         name: Update this repo's README with latest blog posts
@@ -12,7 +12,7 @@ jobs:
             - uses: actions/checkout@v2
             - uses: gautamkrishnar/blog-post-workflow@master
               with:
-                  max_post_count: "9"
+                  max_post_count: "5"
                   feed_list: "https://medium.com/feed/@yantong0116"
                   
             - name: generate github-contribution-grid-snake.svg
