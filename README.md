@@ -80,6 +80,10 @@
 - [Metaprogramming](https://medium.com/@yantong0116/metaprogramming-616ed860b882?source=rss-49cb9750acef------2)
 - [Debugging and Profiling](https://medium.com/@yantong0116/debugging-and-profiling-b264d8e34b18?source=rss-49cb9750acef------2)
 - [Version Control &lpar;Git&rpar;](https://medium.com/@yantong0116/version-control-git-52ce1c280b67?source=rss-49cb9750acef------2)
+- [Command-line Environment](https://medium.com/@yantong0116/command-line-environment-6db0f0d6bec8?source=rss-49cb9750acef------2)
+- [Data Wrangling](https://medium.com/@yantong0116/data-wrangling-e16003b1f010?source=rss-49cb9750acef------2)
+- [Editors &lpar;Vim&rpar;](https://medium.com/@yantong0116/editors-vim-16a12167290f?source=rss-49cb9750acef------2)
+- [Shell Tools and Scripting](https://medium.com/@yantong0116/shell-tools-and-scripting-820ef1023339?source=rss-49cb9750acef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
