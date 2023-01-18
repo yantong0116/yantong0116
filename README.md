@@ -37,7 +37,6 @@
 ![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5)
 ![Matlab](https://img.shields.io/badge/-Matlab-black?style=for-the-badge&logo=matlab)
 
-
 <br />
 
 
@@ -60,20 +59,13 @@
   </div>
 </div-->
 
-<img src="https://github.com/yantong0116/yantong0116/blob/main/metrics.plugin.skyline.svg" alt=""></img>
-
 <!--
+<img src="https://github.com/yantong0116/yantong0116/blob/main/metrics.plugin.skyline.svg" alt=""></img>
 <img src="https://github.com/yantong0116/yantong0116/blob/main/metrics.plugin.skyline.city.svg" alt=""></img>
 !-->
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/yantong0116/yantong0116/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/yantong0116/yantong0116/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
-  <img alt="github-snake" src="github-snake.svg">
-</picture>
 
 📝 **Latest Medium Posts**
 
@@ -86,7 +78,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 <!--
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yantong0116" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yantong0116" height="30" width="40" /></a>
@@ -94,5 +85,4 @@
 <a href="https://medium.com/yantong0116" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="yantong0116" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yantong0116" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yantong0116" height="30" width="40" /></a>
 </p>
-
 -->
