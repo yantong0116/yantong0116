@@ -13,14 +13,11 @@
 
 <div>
 
-- 🔭 I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
-- 🌱 I’m currently learning C++, Machine Learning.
+- 🌱 I’m currently learning C, C++, Machine Learning.
 - 💬 Ask me about anything, anytime 😄
-- 😄 Pronouns: She/Her 😌.
 - ⚡ Fun fact: Pilot dream
 
 </div>
-
 
 **Frameworks and Tool**
 
@@ -36,6 +33,7 @@
 ![C++](https://img.shields.io/badge/-Cpp-black?style=for-the-badge&logo=c)
 ![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5)
 ![Matlab](https://img.shields.io/badge/-Matlab-black?style=for-the-badge&logo=matlab)
+![C](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=c)
 
 <br />
 
