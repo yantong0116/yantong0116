@@ -13,7 +13,7 @@
 
 <div>
 
-- 🌱 I’m currently learning C, C++, Machine Learning.
+- 🌱 I’m currently learning C++, Machine Learning and Operating System with C.
 - 💬 Ask me about anything, anytime 😄
 - ⚡ Fun fact: Pilot dream
 
