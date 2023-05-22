@@ -36,8 +36,9 @@
 
 <br />
 
-
+<!--
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=435&pause=1000&color=6C9FD9&center=true&vCenter=true&width=435&lines=A+Software+developer+from+Taiwan.)](https://git.io/typing-svg)
+-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yantong0116&layout=compact)](https://github.com/yantong0116/yantong0116)
 
