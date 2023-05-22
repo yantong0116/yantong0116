@@ -63,7 +63,7 @@
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/yantong0116/yantong0116/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/yantong0116/yantong0116/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-
+<!--
 📝 **Latest Medium Posts**
 
 <!-- BLOG-POST-LIST:START -->
@@ -73,6 +73,7 @@
 - [Debugging and Profiling](https://medium.com/@yantong0116/debugging-and-profiling-b264d8e34b18?source=rss-49cb9750acef------2)
 - [Version Control &lpar;Git&rpar;](https://medium.com/@yantong0116/version-control-git-52ce1c280b67?source=rss-49cb9750acef------2)
 <!-- BLOG-POST-LIST:END -->
+-->
 
 <!--
 <h3 align="left">Connect with me:</h3>
