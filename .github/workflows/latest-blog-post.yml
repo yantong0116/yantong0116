@@ -10,10 +10,6 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - uses: actions/checkout@v2
-            - uses: gautamkrishnar/blog-post-workflow@master
-              with:
-                  max_post_count: "5"
-                  feed_list: "https://medium.com/feed/@yantong0116"
                   
             - name: generate github-contribution-grid-snake.svg
               uses: Platane/snk/svg-only@v2
