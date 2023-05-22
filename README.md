@@ -15,7 +15,6 @@
 
 - 🌱 I’m currently learning C++, Machine Learning and C with Operating System.
 - 💬 Ask me about anything, anytime 😄
-- ⚡ Fun fact: Pilot dream
 
 </div>
 
