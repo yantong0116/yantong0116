@@ -56,31 +56,9 @@
   </div>
 </div-->
 
-<!--
+
 <img src="https://github.com/yantong0116/yantong0116/blob/main/metrics.plugin.skyline.svg" alt=""></img>
 <img src="https://github.com/yantong0116/yantong0116/blob/main/metrics.plugin.skyline.city.svg" alt=""></img>
-!-->
+
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/yantong0116/yantong0116/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/yantong0116/yantong0116/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-<!--
-📝 **Latest Medium Posts**
-
-<!-- BLOG-POST-LIST:START -->
-- [Potpourri](https://medium.com/@yantong0116/potpourri-549ef6b45069?source=rss-49cb9750acef------2)
-- [Security and Cryptography](https://medium.com/@yantong0116/security-and-cryptography-a01d93c20baf?source=rss-49cb9750acef------2)
-- [Metaprogramming](https://medium.com/@yantong0116/metaprogramming-616ed860b882?source=rss-49cb9750acef------2)
-- [Debugging and Profiling](https://medium.com/@yantong0116/debugging-and-profiling-b264d8e34b18?source=rss-49cb9750acef------2)
-- [Version Control &lpar;Git&rpar;](https://medium.com/@yantong0116/version-control-git-52ce1c280b67?source=rss-49cb9750acef------2)
-<!-- BLOG-POST-LIST:END -->
--->
-
-<!--
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yantong0116" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yantong0116" height="30" width="40" /></a>
-<a href="https://instagram.com/yan._.tong_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yan._.tong_" height="30" width="40" /></a>
-<a href="https://medium.com/yantong0116" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="yantong0116" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yantong0116" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yantong0116" height="30" width="40" /></a>
-</p>
--->
