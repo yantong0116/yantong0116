@@ -38,6 +38,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yantong0116&layout=compact)](https://github.com/yantong0116/yantong0116)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/yantong0116/yantong0116/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/yantong0116/yantong0116/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
+<br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
