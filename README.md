@@ -5,15 +5,13 @@
 [![](https://img.icons8.com/material-two-tone/32/000000/instagram-new.png)](https://instagram.com/yan._.tong_)
 [![](https://img.icons8.com/material-two-tone/32/000000/linkedin.png)](https://linkedin.com/in/yantong0116)
 [![](https://img.icons8.com/ios/32/000000/resume-website.png)](https://yantong0116.github.io)
-
-
 </span>
 
 <img src="./code.gif" align="right" alt="Coder GIF" width="480" height="300">
 
 <div>
 
-- 🌱 I’m currently learning C++, Machine Learning and C with Operating System.
+- 🌱 I'm currently learning image processing algorithms in C++ and operating systems in C.
 - 💬 Ask me about anything, anytime 😄
 
 </div>
