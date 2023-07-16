@@ -40,4 +40,5 @@
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  ![](https://raw.githubusercontent.com/yantong0116/yantong0116/output/github-contribution-grid-snake.svg)
 </picture>
