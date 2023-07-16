@@ -36,35 +36,10 @@
 
 <br />
 
-<!--
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=435&pause=1000&color=6C9FD9&center=true&vCenter=true&width=435&lines=A+Software+developer+from+Taiwan.)](https://git.io/typing-svg)
--->
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yantong0116&layout=compact)](https://github.com/yantong0116/yantong0116)
-
-
-<!--div align="center">
-  <div style="display: flex; align-items: flex-start;">
-    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
-  </div>
-</div-->
-
-<!--
-<img src="https://github.com/yantong0116/yantong0116/blob/main/metrics.plugin.skyline.svg" alt=""></img>
-<img src="https://github.com/yantong0116/yantong0116/blob/main/metrics.plugin.skyline.city.svg" alt=""></img>
--->
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/yantong0116/yantong0116/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/yantong0116/yantong0116/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
 </picture>
