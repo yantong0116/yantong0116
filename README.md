@@ -5,6 +5,7 @@
 [![](https://img.icons8.com/material-two-tone/32/000000/instagram-new.png)](https://instagram.com/yan._.tong_)
 [![](https://img.icons8.com/material-two-tone/32/000000/linkedin.png)](https://linkedin.com/in/yantong0116)
 [![](https://img.icons8.com/ios/32/000000/resume-website.png)](https://yantong0116.github.io)
+
 </span>
 
 <img src="./code.gif" align="right" alt="Coder GIF" width="480" height="300">
@@ -35,10 +36,11 @@
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yantong0116&layout=compact)](https://github.com/yantong0116/yantong0116)
-
 ![github contribution grid snake animation](https://raw.githubusercontent.com/yantong0116/yantong0116/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/yantong0116/yantong0116/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
+
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
