@@ -26,14 +26,15 @@
 
 **Languages**
 
+![C++](https://img.shields.io/badge/-Cpp-black?style=for-the-badge&logo=c)
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
 ![Java](https://img.shields.io/badge/-java-black?style=for-the-badge&logo=java)
-![C++](https://img.shields.io/badge/-Cpp-black?style=for-the-badge&logo=c)
+![C](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=c)
 ![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5)
 ![Matlab](https://img.shields.io/badge/-Matlab-black?style=for-the-badge&logo=matlab)
-![C](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=c)
 
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yantong0116&layout=compact)](https://github.com/yantong0116/yantong0116)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yantong0116&theme=nord_bright)
