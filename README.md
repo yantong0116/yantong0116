@@ -13,7 +13,7 @@
 <div>
 
 - 🌱 I'm currently learning image processing algorithms in C++ and operating systems in C.
-- 💬 Ask me about anything, anytime 😄
+- 💬 Feel free to ask me anytime 😄
 
 </div>
 
