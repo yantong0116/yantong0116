@@ -16,13 +16,6 @@
 
 </div>
 
-**Frameworks and Tool**
-
-![Django](https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=django)
-![Pytorch](https://img.shields.io/badge/-Pytorch-black?style=for-the-badge&logo=pytorch)
-![Postman](https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=postman)
-![SQL](https://img.shields.io/badge/-SQLite-black?style=for-the-badge&logo=SQLite)
-
 **Languages**
 
 ![Go](https://img.shields.io/badge/-go-black?style=for-the-badge&logo=go)
@@ -34,6 +27,13 @@
 ![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5)
 ![Matlab](https://img.shields.io/badge/-Matlab-black?style=for-the-badge&logo=matlab)
 
+
+**Frameworks and Tool**
+
+![Django](https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=django)
+![Pytorch](https://img.shields.io/badge/-Pytorch-black?style=for-the-badge&logo=pytorch)
+![Postman](https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=postman)
+![SQL](https://img.shields.io/badge/-SQLite-black?style=for-the-badge&logo=SQLite)
 
 <br />
 
