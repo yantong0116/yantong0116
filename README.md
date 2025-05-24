@@ -12,8 +12,7 @@
 
 <div>
 
-- 🌱 I'm currently learning image processing algorithms in C++ and operating systems in C.
-- 💬 Feel free to ask me anytime 😄
+🌱 I'm currently researching GoLang, React, and LLM.
 
 </div>
 
@@ -26,12 +25,15 @@
 
 **Languages**
 
+![Go](https://img.shields.io/badge/-go-black?style=for-the-badge&logo=go)
+![React](https://img.shields.io/badge/-react-black?style=for-the-badge&logo=react)
 ![C++](https://img.shields.io/badge/-Cpp-black?style=for-the-badge&logo=c)
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
 ![Java](https://img.shields.io/badge/-java-black?style=for-the-badge&logo=java)
 ![C](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=c)
 ![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5)
 ![Matlab](https://img.shields.io/badge/-Matlab-black?style=for-the-badge&logo=matlab)
+
 
 <br />
 
