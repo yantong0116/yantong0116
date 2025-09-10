@@ -12,7 +12,7 @@
 
 <div>
 
-🌱 I'm currently researching GoLang, React, and LLM.
+🌱 I'm currently exploring system-level programming and software development using C and C++.
 
 </div>
 
